@@ -24,12 +24,12 @@ This SignUp Form I created to practice my React concepts like:
 
 ## Instructions to use this project 
 
-1.Clone the repository :  git clone [(https://github.com/Reshu-Tyagi/signup-form-react.git)](https://github.com/Reshu-Tyagi/signup-form-react.git)
+1. Clone the repository :  git clone [(https://github.com/Reshu-Tyagi/signup-form-react.git)](https://github.com/Reshu-Tyagi/signup-form-react.git)
  
-2.cd signup-form-react
+2. cd signup-form-react
 
-3.cd my-app
+3. cd my-app
 
-4.npm install
+4. npm install
 
-5.npm run dev
+5. npm run dev
